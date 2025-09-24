@@ -178,3 +178,4 @@ student = {"name": "Priya", "age": 26, "course": "Python"}
 Access by key → very fast print(student["age"]) # 21
 
 Search by value → slower print(21 in student.values()) # O(n), True
+[DATA_Structure.ipynb (1).txt](https://github.com/user-attachments/files/22518464/DATA_Structure.ipynb.1.txt
